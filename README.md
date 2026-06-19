@@ -1,1 +1,0 @@
-# takakiba.github.io
