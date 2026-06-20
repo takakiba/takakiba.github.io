@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Home on Takaki Akiba</title><link>https://takakiba.github.io/</link><description>Recent content in Home on Takaki Akiba</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Fri, 19 Jun 2026 13:08:07 +0900</lastBuildDate><atom:link href="https://takakiba.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://takakiba.github.io/contact/</link><pubDate>Fri, 19 Jun 2026 13:08:07 +0900</pubDate><guid>https://takakiba.github.io/contact/</guid><description>&lt;ul&gt;
 &lt;li&gt;E-mail: akiba[at]mesl.t.u-tokyo.ac.jp&lt;/li&gt;
 &lt;li&gt;Address: 7-3-1, Hongo, Bunkyo-ku, Tokyo 1138656 Japan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="research-logs"&gt;Research logs&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.mesl.t.u-tokyo.ac.jp/"&gt;Lab. website&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.mesl.t.u-tokyo.ac.jp/users/akiba/index.html"&gt;Lab. personal page&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.researchgate.net/profile/Takaki-Akiba"&gt;ResearchGate&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="personal-articles"&gt;Personal articles&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;GitHub: &lt;a href="https://github.com/takakiba"&gt;takakiba&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Qiita: &lt;a href="https://qiita.com/takakiba"&gt;takakiba&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Note: &lt;a href="https://note.com/takakiba"&gt;Takakiba&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Research</title><link>https://takakiba.github.io/research/</link><pubDate>Fri, 19 Jun 2026 13:07:39 +0900</pubDate><guid>https://takakiba.github.io/research/</guid><description>&lt;h2 id="quantum-computing-for-reacting-flow"&gt;Quantum computing for reacting flow&lt;/h2&gt;
-&lt;p&gt;Quantum computing for reacting flow.&lt;/p&gt;
-&lt;h2 id="combustion-limit-under-microgravity"&gt;Combustion limit under microgravity&lt;/h2&gt;
-&lt;p&gt;Combustion limit under microgravity&lt;/p&gt;</description></item><item><title>Publications</title><link>https://takakiba.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://takakiba.github.io/publications/</guid><description>&lt;h2 id="original-paper"&gt;Original Paper&lt;/h2&gt;
+&lt;p&gt;Reactive-flow problems, such as combustion,
+involve strong coupling among chemical reactions, heat and mass transport, and fluid motion.
+Because of this coupling, their numerical simulation can become extremely demanding,
+and in some cases it is difficult to obtain sufficiently detailed solutions within a practical computational time.&lt;/p&gt;
+&lt;p&gt;I study how quantum computing can be used for such challenging reactive-flow problems.
+My work focuses on both the formulation of combustion-related problems into forms suitable for quantum algorithms
+and the numerical verification of those algorithms using GPU-based quantum-circuit emulation developed in-house.&lt;/p&gt;</description></item><item><title>Publications</title><link>https://takakiba.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://takakiba.github.io/publications/</guid><description>&lt;h2 id="original-paper"&gt;Original Paper&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Xingchang Xu, Minhyeok Lee, Takaki Akiba, Yuji Suzuki, Quantitative measurements of hydrogen atom concentrations in ammonia diffusion flames using two-photon absorption laser-induced fluorescence, Proceedings of the Combustion Institute, 42, 2026, Accepted.&lt;/li&gt;
 &lt;li&gt;Yujian Xing, Minhyeok Lee, Xingchang Xu, Takaki Akiba, Keigo Matsumoto, Shugo Iwasaki, Yuji Suzuki, Nitriding of Austenitic Stainless Steel Induced by Ammonia Flames under Elevated Pressures , Proceedings of the Combustion Institute, 42, 2026, Accepted.&lt;/li&gt;

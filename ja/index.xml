@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ホーム on Takaki Akiba</title><link>https://takakiba.github.io/ja/</link><description>Recent content in ホーム on Takaki Akiba</description><generator>Hugo</generator><language>ja-JP</language><lastBuildDate>Fri, 19 Jun 2026 13:09:00 +0900</lastBuildDate><atom:link href="https://takakiba.github.io/ja/index.xml" rel="self" type="application/rss+xml"/><item><title>研究</title><link>https://takakiba.github.io/ja/research/</link><pubDate>Fri, 19 Jun 2026 13:09:00 +0900</pubDate><guid>https://takakiba.github.io/ja/research/</guid><description>&lt;h3 id="反応性流体の量子コンピューティングに向けた開発"&gt;反応性流体の量子コンピューティングに向けた開発&lt;/h3&gt;
-&lt;p&gt;TBD.&lt;/p&gt;
+&lt;p&gt;燃焼に代表される，反応と流体が連成する問題においては，その解析が非常に困難であり，
+現実的な時間で解析することが難しい場合が多いです．
+そこで，近年開発が進められる量子コンピュータの持つ潜在的な計算性能に着目し，
+現在の計算機では解析が困難な問題を実用的な時間で解析する手法について研究しています．&lt;/p&gt;
+&lt;p&gt;燃焼のような複雑な問題を，量子コンピュータが解ける形式にどうやって帰着させるかといった前処理的な取り組みから，
+自前で開発したGPUエミュレーションなどを活用して実際の量子コンピュータを使った時の振る舞いの検証に至るまで，
+量子コンピュータで何がどこまで解けるのか，という実用に活かす観点で研究を進めています．&lt;/p&gt;
 &lt;h3 id="燃焼限界の不安定な火炎挙動に関する研究"&gt;燃焼限界の不安定な火炎挙動に関する研究&lt;/h3&gt;
-&lt;p&gt;TBD.&lt;/p&gt;</description></item><item><title>連絡先</title><link>https://takakiba.github.io/ja/contact/</link><pubDate>Fri, 19 Jun 2026 13:09:00 +0900</pubDate><guid>https://takakiba.github.io/ja/contact/</guid><description>&lt;ul&gt;
+&lt;p&gt;燃焼限界とは，燃焼現象が維持できる限界であり，その限界を少しでも超えると火が消える消炎という状態に至ります．
+燃焼限界は，どんな条件で燃焼が発生しないか，という安全の観点だけでなく，
+現在の燃料利用をどこまで削減できるか，という効率的なエネルギー利用や環境保護の観点でも非常に重要な知見です．
+一方で，燃焼限界付近では，ちょっとした影響で簡単に火が消えてしまうので，
+今何が引き金になって火が消えたのか，をきちんと整理して理解する必要があります．&lt;/p&gt;
+&lt;p&gt;また，こうした燃焼限界付近の条件において，特定の環境を整えると，
+火炎が通常とは異なる形状で維持される特殊な燃焼状態を示すことがあります．
+こうした未知の燃焼状態がないか，エネルギーの有効利用に活用できないかを研究しています．&lt;/p&gt;</description></item><item><title>連絡先</title><link>https://takakiba.github.io/ja/contact/</link><pubDate>Fri, 19 Jun 2026 13:09:00 +0900</pubDate><guid>https://takakiba.github.io/ja/contact/</guid><description>&lt;ul&gt;
 &lt;li&gt;E-mail: akiba[at]mesl.t.u-tokyo.ac.jp&lt;/li&gt;
 &lt;li&gt;住所: 〒113-8656 東京都文京区本郷7-3-1&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="研究関連の公式情報"&gt;研究関連の公式情報&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.mesl.t.u-tokyo.ac.jp/ja"&gt;研究室HP&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.mesl.t.u-tokyo.ac.jp/users/akiba/index-j.html"&gt;研究室個人ページ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.researchgate.net/profile/Takaki-Akiba"&gt;ResearchGate&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://researchmap.jp/takakiba"&gt;Researchmap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="個人的な成果物"&gt;個人的な成果物&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;GitHub: &lt;a href="https://github.com/takakiba"&gt;takakiba&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Qiita: &lt;a href="https://qiita.com/takakiba"&gt;takakiba&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Note: &lt;a href="https://note.com/takakiba"&gt;Takakiba&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>業績</title><link>https://takakiba.github.io/ja/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://takakiba.github.io/ja/publications/</guid><description>&lt;h2 id="original-paper"&gt;Original Paper&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Xingchang Xu, Minhyeok Lee, Takaki Akiba, Yuji Suzuki, Quantitative measurements of hydrogen atom concentrations in ammonia diffusion flames using two-photon absorption laser-induced fluorescence, Proceedings of the Combustion Institute, 42, 2026, Accepted.&lt;/li&gt;
